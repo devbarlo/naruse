@@ -10,7 +10,7 @@ We do not provide any support or help or take any questions or queries around th
 We did not run this bot or this repo to feed every entititled user who demands our dedicated time and attention, we are tired of it and the horrible community around kangs.
 
 ## Credits [DEV]
-* [TeamKillerX/Randi356](github.com/TeamKillerX)
+* [TeamKillerX/Randi356](https://github.com/TeamKillerX)
 * [PaulSonOfLars](https://github.com/PaulSonOfLars) 
 * [Kigyo](https://github.com/AnimeKaizoku/EnterpriseALRobot)
 * [TheHamkerCat](https://github.com/TheHamkerCat/WilliamButcherBot)
