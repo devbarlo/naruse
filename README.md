@@ -4,6 +4,29 @@
 ![Contributors](https://img.shields.io/github/contributors/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)
 ![Repository Size](https://img.shields.io/github/repo-size/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)</br>
 
+# Clients
+## Importing Telethon
+```python3
+from naruse import telethn
+```
+## Importing Pyrogram
+```python3
+from naruse import pbot
+```
+## Importing ARQ
+```python3
+from naruse import arq
+```
+## Importing aiohttp
+```python3
+from naruse import aiohttp
+```
+# DataBase
+## Importing Postgres
+```python3
+from naruse.modules.sql import SESSION
+```
+
 ## Support and Help:
 We do not provide any support or help or take any questions or queries around this repo, if you want to deploy it you are on your own, learn to read or ask in some python dev group or stalkoverflow, the internet is your learning ground - but do NOT come our support group asking any help around the code or the repo, you will get immediately banned and just cussed at. 
 
