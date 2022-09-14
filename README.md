@@ -2,7 +2,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor)
 ![LICENSE](https://img.shields.io/github/license/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)
 ![Contributors](https://img.shields.io/github/contributors/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)
-![Repository Size](https://img.shields.io/github/repo-size/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)</br>
+![Repository Size](https://img.shields.io/github/repo-size/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)
 
 # Clients
 ## Importing Telethon
