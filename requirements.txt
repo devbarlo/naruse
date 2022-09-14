@@ -46,7 +46,6 @@ random2
 motor
 pySmartDL
 pymongo
-pyromod
 openapi-codec
 pathlib
 wheel-inspect
