@@ -3,6 +3,7 @@
 ![LICENSE](https://img.shields.io/github/license/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)
 ![Contributors](https://img.shields.io/github/contributors/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)
 ![Repository Size](https://img.shields.io/github/repo-size/TeamKillerX/naruse?style=for-the-badge&logo=appveyor)
+<img src="https://github-readme-stats.vercel.app/api?username=TeamKillerX&show_icons=true" alt="TeamKillerX GitHub Stats">
 
 # Clients
 ## Importing Telethon
