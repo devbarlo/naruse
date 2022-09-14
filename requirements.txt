@@ -5,7 +5,7 @@ bleach
 cachetools
 configparser
 currencyconverter
-emoji==1.7.0
+emoji==2.0.0
 feedparser
 future
 git+https://github.com/python-telegram-bot/ptbcontrib.git
